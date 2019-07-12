@@ -1,0 +1,372 @@
+table_id,report_id,table_name,start_page,end_page,table_header,parse_err,table_title,input_end_page,input_start_page,user_id,update_time
+1078,340,is,166,166,Consolidated Income Statement for the year ended 31 December 2017,,,,,4,2019-03-14 11:31:41
+1079,340,cis,167,167,Consolidated Statement of Comprehensive Income for the year ended 31 December 2017,,,,,4,2019-04-27 02:58:24
+1080,340,bs,168,169,Consolidated Statement of Financial Position at 31 December 2017,,,,,4,2019-04-27 03:01:20
+1081,340,cfs,172,173,Consolidated Statement of Cash Flows for the year ended 31 December 2017,,,,,4,2019-03-14 11:37:41
+1083,340,cfs_note,242,242,"Notes to consolidated statement of cash flows 33 Notes to consolidated statement of cash flows (a) Reconciliation of profit after tax to cash generated from operating activities before interest expenses and other finance costs, tax paid and changes in working capital",,,,,11,2019-03-20 10:51:10
+1122,351,is,178,178,Consolidated income statement for the year ended 31 December,,,,,4,2019-03-24 21:43:04
+1123,351,cis,179,179,Consolidated statement of comprehensive income for the year ended 31 December,,,,,4,2019-03-24 21:45:46
+1124,351,bs,180,180,Consolidated balance sheet at 31 December,,,,,4,2019-03-24 21:48:01
+1125,351,cfs,181,181,Consolidated statement of cash flows for the year ended 31 December,,,,,4,2019-04-27 03:17:15
+1130,353,is,71,71,CONSOLIDATED STATEMENT OF PROFIT OR LOSS For the year ended 31 December 2017 (Expressed in Hong Kong dollars),,,,,4,2019-03-24 21:53:35
+1131,353,cis,72,72,CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME For the year ended 31 December 2017 (Expressed in Hong Kong dollars),,,,,4,2019-03-24 21:55:21
+1132,353,bs,73,73,CONSOLIDATED STATEMENT OF FINANCIAL POSITION At 31 December 2017 (Expressed in Hong Kong dollars),,,,,4,2019-03-24 21:59:04
+1133,353,cfs,75,75,CONSOLIDATED CASH FLOW STATEMENT For the year ended 31 December 2017 (Expressed in Hong Kong dollars),,,,,4,2019-03-24 22:03:24
+1145,356,is,94,94,"CONSOLIDATED INCOME STATEMENT For the year ended December 31, 2017",,,,,8,2019-03-20 16:46:44
+1146,356,cis,95,95,"CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME For the year ended December 31, 2017",,,,,8,2019-03-20 16:56:46
+1148,356,cfs,101,101,"CONSOLIDATED STATEMENT OF CASH FLOWS For the year ended December 31, 2017",,,,,8,2019-03-20 17:05:31
+1149,356,cfs_note,194,194,36 NOTES TO THE CONSOLIDATED STATEMENT OF CASH FLOWS a. Reconciliation of profit before income tax to net cash generated from operating activities,,,,,8,2019-03-20 17:13:57
+1155,358,is,145,145,"Consolidated Statement of Profit or Loss For the year ended December 31, 2017",,,,,8,2019-03-20 17:23:25
+1156,358,cis,146,146,"Consolidated Statement of Profit or Loss and Other Comprehensive Income For the year ended December 31, 2017",,,,,8,2019-03-20 17:26:47
+1157,358,cfs_note,194,194,25 Cash Generated from Operations,,,,,8,2019-03-20 17:28:44
+1158,358,cfs,151,151,"Consolidated Cash Flow Statement For the year ended December 31, 2017",,,,,8,2019-03-20 17:47:04
+1159,358,bs,147,148,"Consolidated Statement of Financial Position At December 31, 2017",,,,,8,2019-03-20 18:00:38
+1164,360,is,140,140,Consolidated Income Statement for the year ended 31 December 2017 (Expressed in millions of Hong Kong dollars),,,,,8,2019-03-20 18:07:24
+1165,360,cis,141,141,Consolidated Statement of Comprehensive Income for the year ended 31 December 2017 (Expressed in millions of Hong Kong dollars),,,,,8,2019-03-20 18:12:20
+1166,360,bs,142,142,Consolidated Balance Sheet at 31 December 2017 (Expressed in millions of Hong Kong dollars),,,,,8,2019-03-20 18:17:48
+1167,360,cfs,144,145,Consolidated Statement of Cash Flows for the year ended 31 December 2017 (Expressed in millions of Hong Kong dollars),,,,,8,2019-03-20 18:27:14
+1172,362,is,135,135,Consolidated Statement of Profit or Loss for the year ended 31 December 2017,,,,,8,2019-02-15 20:00:05
+1173,362,cis,136,136,Consolidated Statement of Profit or Loss and Other Comprehensive Income for the year ended 31 December 2017,,,,,8,2019-02-15 20:02:12
+1174,362,bs,137,138,Consolidated Statement of Financial Position at 31 December 2017,,,,,8,2019-03-20 18:38:40
+1175,362,cfs,141,142,Consolidated Cash Flow Statement for the year ended 31 December 2017,,,,,8,2019-03-20 19:33:40
+1180,364,is,121,121,Consolidated Statement of Profit or Loss For the year ended 31 December 2017,,,,,22,2019-02-11 16:16:22
+1181,364,cis,122,122,Consolidated Statement of Comprehensive Income For the year ended 31 December 2017,,,,,22,2019-02-11 16:25:02
+1182,364,bs,123,123,Consolidated Statement of Financial Position At 31 December 2017,,,,,22,2019-02-11 16:37:53
+1183,364,cfs,126,126,Consolidated Statement of Cash Flows For the year ended 31 December 2017,,,,,4,2019-04-27 03:24:17
+1188,366,is,167,167,Consolidated Income Statement For the year ended 30 June 2017 (Expressed in millions of Hong Kong dollars),,,,,11,2019-03-20 11:00:34
+1189,366,cis,168,168,Consolidated Statement of Comprehensive Income For the year ended 30 June 2017 (Expressed in millions of Hong Kong dollars),,,,,11,2019-03-20 11:05:24
+1190,366,bs,169,169,Consolidated Statement of Financial Position As at 30 June 2017 (Expressed in millions of Hong Kong dollars),,,,,11,2019-03-20 11:12:24
+1191,366,cfs,170,170,Consolidated Statement of Cash Flows For the year ended 30 June 2017 (Expressed in millions of Hong Kong dollars),,,,,11,2019-03-20 11:17:09
+1192,367,cfs_note,191,191,46 NOTES TO CONSOLIDATED STATEMENT OF CASH FLOWS (a) Reconciliation of operating profit to net cash generated from operations,,,,,11,2019-03-20 11:22:19
+1198,367,is,120,120,CONSOLIDATED INCOME STATEMENT For the year ended 30 June 2017,,,,,12,2019-03-14 16:19:56
+1199,367,cis,121,121,CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME For the year ended 30 June 2017,,,,,12,2019-03-14 16:23:23
+1200,367,bs,122,123,CONSOLIDATED STATEMENT OF FINANCIAL POSITION As at 30 June 2017,,,,,11,2019-03-20 11:30:38
+1205,370,cis,35,35,Consolidated Statement of Profit or Loss and Other Comprehensive Income For the year ended 31 March 2017,,,,,11,2019-03-20 11:41:27
+1206,370,cfs,38,38,Consolidated Statement of Cash Flows For the year ended 31 March 2017,,,,,11,2019-03-20 12:48:47
+1207,370,bs,36,37,Consolidated Statement of Financial Position At 31 March 2017,,,,,11,2019-03-20 12:00:57
+1223,374,is,66,66,CONSOLIDATED INCOME STATEMENT For the year ended 31 December 2017,,,,,11,2019-03-12 15:58:22
+1224,374,cis,67,67,CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME For the year ended 31 December 2017,,,,,11,2019-03-12 16:01:51
+1225,374,bs,68,68,CONSOLIDATED STATEMENT OF FINANCIAL POSITION At 31 December 2017,,,,,11,2019-03-12 16:06:34
+1226,374,cfs,70,70,CONSOLIDATED STATEMENT OF CASH FLOWS For the year ended 31 December 2017,,,,,11,2019-03-12 16:12:18
+1227,374,cfs_note,71,71,CONSOLIDATED STATEMENT OF CASH FLOWS (CONTINUED) For the year ended 31 December 2017 NOTES TO CONSOLIDATED STATEMENT OF CASH FLOWS a)  Reconciliation of operating profit to cash generated from operations,,,,,11,2019-03-12 16:16:06
+1266,385,is,168,168,Consolidated Statement of Profit or Loss(HK$m),,,,,2,2019-02-15 18:41:56
+1267,385,bs,170,170,CONSOLIDATED STATEMENT OF FINANCIAL POSITION(HK$m),,,,,2,2019-02-15 18:44:37
+1268,385,cfs,172,172,Consolidated Statement of Cash Flows(HK$m) ,,,,,2,2019-02-15 18:47:25
+1275,388,is,203,203,CONSOLIDATED PROFIT AND LOSS ACCOUNT,,,,,2,2019-02-15 19:20:09
+1276,388,cis,204,204,Consolidated Statement of Comprehensive Income,,,,,2,2019-02-15 19:21:57
+1277,388,bs,205,205,CONSOLIDATED STATEMENT OF FINANCIAL POSITION in HK$ million,,,,,2,2019-02-15 19:24:11
+1278,388,cfs,207,207,Consolidated Cash Flow Statement,,,,,4,2019-04-27 03:30:29
+1289,392,is,174,174,"CONSOLIDATED STATEMENT OF PROFIT OR LOSS For the year ended 30th June, 2017",,,,,2,2019-02-15 20:08:14
+1290,392,cis,175,175,"CONSOLIDATED STATEMENT OF PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME For the year ended 30th June, 2017",,,,,2,2019-02-15 20:11:27
+1291,392,bs,176,177,"CONSOLIDATED STATEMENT OF FINANCIAL POSITION At 30th June, 2017",,,,,2,2019-02-15 20:15:10
+1292,392,cfs,179,181,"CONSOLIDATED STATEMENT OF CASH FLOWS For the year ended 30th June, 2017",,,,,2,2019-02-15 20:28:05
+1296,393,cfs_note,197,197,25 Cash Generated from Operations,,,,,4,2019-04-27 03:40:10
+1302,393,is,149,149,"Consolidated Statement of Profit or Loss For the year ended December 31, 2017",,,,,4,2019-04-27 03:42:25
+1303,393,cis,150,150,"Consolidated Statement of Profit or Loss and Other Comprehensive Income For the year ended December 31, 2017",,,,,4,2019-04-27 03:45:28
+1304,393,bs,151,152,"Consolidated Statement of Financial Position At December 31, 2017",,,,,11,2019-03-20 15:26:33
+1305,393,cfs,155,155,"Consolidated Cash Flow Statement For the year ended December 31, 2017",,,,,11,2019-03-20 15:57:03
+1333,402,is,91,91,CONSOLIDATED INCOME STATEMENT For the year ended 31 December 2017,,,,,2,2019-02-15 20:50:15
+1334,402,cis,92,92,CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME For the year ended 31 December 2017,,,,,2,2019-02-15 20:54:21
+1335,402,bs,93,94,CONSOLIDATED STATEMENT OF FINANCIAL POSITION As at 31 December 2017,,,,,2,2019-02-15 20:48:06
+1336,402,cfs,97,98,CONSOLIDATED STATEMENT OF CASH FLOWS For the year ended 31 December 2017,,,,,2,2019-02-15 20:42:55
+1342,404,is,168,169,CONSOLIDATED INCOME STATEMENT For the year ended 31 December 2017,,,,,4,2019-04-27 03:47:51
+1343,404,cis,170,170,CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME For the year ended 31 December 2017,,,,,1,2019-02-15 19:54:04
+1344,404,bs,171,172,Consolidated Balance Sheet As at 31 December 2017,,,,,1,2019-02-15 20:29:16
+1345,404,cfs,175,176,CONSOLIDATED CASH FLOW STATEMENT For the year ended 31 December 2017,,,,,1,2019-02-15 20:04:29
+1350,406,bs,66,67,"CONSOLIDATED STATEMENT OF FINANCIAL POSITION At December 31, 2017",,,,,1,2019-02-15 20:57:44
+1351,406,cfs,70,71,"CONSOLIDATED STATEMENT OF CASH FLOWS For the year ended December 31, 2017",,,,,1,2019-02-15 21:08:15
+1364,410,cis,85,85,CONSOLIDATED INCOME STATEMENT for the year ended 31 December 2017,,,,,11,2019-03-12 17:38:25
+1366,410,bs,83,83,(A) FINANCIAL STATEMENTS PREPARED UNDER CHINA ACCOUNTING STANDARDS FOR BUSINESS ENTERPRISES CONSOLIDATED BALANCE SHEET as at 31 December 2017,,,,,11,2019-03-12 16:44:41
+1367,410,cfs,87,87,CONSOLIDATED CASH FLOW STATEMENT for the year ended 31 December 2017,,,,,11,2019-03-12 16:47:06
+1382,414,is,140,140,Consolidated Income Statement For the year ended 31 December 2017,,,,,1,2019-03-20 19:19:13
+1383,414,cis,141,141,Consolidated Statement of Comprehensive Income For the year ended 31 December 2017,,,,,1,2019-03-20 19:22:29
+1384,414,bs,142,143,CONSOLIDATED STATEMENT OF FINANCIAL POSITION At 31 December 2017,,,,,1,2019-03-20 20:40:01
+1385,414,cfs,146,148,Consolidated Statement of Cash Flows For the year ended 31 December 2017,,,,,1,2019-03-20 20:47:38
+1401,418,is,108,108,"Consolidated Statement of Income (All amounts in Renminbi (“RMB”) millions, except per share data)",,,,,12,2019-03-14 14:47:56
+1402,418,cis,109,109,Consolidated Statement of Comprehensive Income (All amounts in RMB millions),,,,,12,2019-03-14 14:50:26
+1404,418,cfs,113,113,Consolidated Statement of Cash Flows (All amounts in RMB millions),,,,,12,2019-03-14 15:01:04
+1411,420,is,144,144,Consolidated Income Statement For the year ended 31 March 2018,,,,,12,2019-03-14 15:30:55
+1413,420,bs,147,147,Consolidated Statement of Financial Position As at 31 March 2018,,,,,12,2019-03-14 15:43:24
+1414,420,cfs,149,149,Consolidated Statement of Cash Flows For the year ended 31 March 2018,,,,,12,2019-03-14 15:32:26
+1415,420,cfs_note,186,186,27 Note to the Consolidated Statement of Cash Flows (a) Net Cash Generated from Operating Activities,,,,,12,2019-03-14 15:33:59
+1577,462,cfs_note,111,111,NOTES TO THE CONSOLIDATED STATEMENT OF CASH FLOWS (a) Reconciliation of operating profit to cash generated from operations,,,,,4,2019-04-11 16:21:47
+1578,462,is,106,106,Consolidated statement of profit or loss For The Year Ended 31 December 2017,,,,,2,2019-03-24 18:52:39
+1579,462,cis,107,107,Consolidated statement of comprehensive income For The Year Ended 31 December 2017,,,,,2,2019-03-24 18:55:41
+1580,462,bs,108,108,Consolidated statement of financial position At 31 December 2017,,,,,2,2019-03-24 19:00:55
+1581,462,cfs,110,110,Consolidated statement of cash flows For The Year Ended 31 December 2017,,,,,2,2019-03-24 19:16:30
+1586,464,cis,128,129,Consolidated Statement of Comprehensive Income,,,,,4,2019-04-27 05:26:24
+1587,464,bs,126,127,Consolidated Statement of Financial Position,,,,,4,2019-04-27 05:29:36
+1588,464,cfs,133,134,Consolidated Cash Flow Statement,,,,,4,2019-04-27 05:30:38
+1589,464,cfs_note,232,232,Notes to the Consolidated Financial Statements 36 Cash flow information (a) Cash generated from operations,,,,,11,2019-03-13 11:36:27
+1593,466,cis,70,70,CONSOLIDATED STATEMENT OF PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME FOR THE YEAR ENDED 31 DECEMBER 2017,,,,,11,2019-03-13 11:49:07
+1594,466,bs,71,72,CONSOLIDATED STATEMENT OF FINANCIAL POSITION AT 31 DECEMBER 2017,,,,,11,2019-03-13 11:54:00
+1595,466,cfs,74,75,CONSOLIDATED STATEMENT OF CASH FLOWS FOR THE YEAR ENDED 31 DECEMBER 2017,,,,,11,2019-03-13 12:05:57
+1654,482,is,142,142,"Consolidated Income Statement For the year ended 31 December 2017 (Amount in millions of Renminbi, unless otherwise stated)",,,,,8,2019-03-20 21:11:07
+1656,482,bs,144,145,"Consolidated Statement of Financial Position As at 31 December 2017 (Amount in millions of Renminbi, unless otherwise stated)",,,,,8,2019-03-20 21:18:44
+1657,482,cfs,147,148,"Consolidated Statement of Cash Flows For the year ended 31 December 2017 (Amount in millions of Renminbi, unless otherwise stated)",,,,,8,2019-03-20 21:41:13
+2079,583,cis,98,99,Consolidated Statement of Profit or Loss and Other Comprehensive Income For the year ended 30 June 2018,,,,,8,2019-03-20 20:39:38
+2080,583,bs,100,101,Consolidated Statement of Financial Position At 30 June 2018,,,,,8,2019-03-20 20:51:21
+2081,583,cfs,103,104,Consolidated Statement of Cash Flows For the year ended 30 June 2018,,,,,8,2019-03-20 21:01:33
+2086,585,is,117,117,"CONSOLIDATED STATEMENT OF PROFIT OR LOSS For the year ended 31st December, 2017",,,,,11,2019-03-22 00:33:59
+2087,585,cis,118,118,"CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME For the year ended 31st December, 2017",,,,,4,2019-04-11 17:07:56
+2088,585,bs,119,121,"CONSOLIDATED STATEMENT OF FINANCIAL POSITION As at 31st December, 2017",,,,,11,2019-03-22 01:40:34
+2094,587,is,88,88,CONSOLIDATED STATEMENT OF PROFIT OR LOSS For the year ended 31 December 2017,,,,,4,2019-04-27 05:32:33
+2095,587,cis,89,89,CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME For the year ended 31 December 2017,,,,,11,2019-03-22 01:58:40
+2096,587,bs,90,91,CONSOLIDATED BALANCE SHEET As at 31 December 2017,,,,,11,2019-03-22 02:08:31
+2097,587,cfs,92,94,CONSOLIDATED STATEMENT OF CASH FLOWS For the year ended 31 December 2017,,,,,4,2019-04-27 05:33:32
+2116,593,is,126,126,Consolidated Income Statement,,,,,11,2019-03-22 16:26:54
+2117,593,cis,127,127,Consolidated Statement of Comprehensive Income,,,,,4,2019-04-27 05:38:39
+2118,593,bs,128,128,Consolidated Statement of Financial Position,,,,,11,2019-03-22 17:02:07
+2119,593,cfs,130,131,Consolidated Statement of Cash Flows,,,,,23,2019-04-12 13:05:54
+2124,595,is,67,67,CONSOLIDATED STATEMENT OF PROFIT OR LOSS For the year ended 31 December 2017,,,,,11,2019-03-26 14:32:25
+2125,595,cis,68,68,CONSOLIDATED STATEMENT OF PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME For the year ended 31 December 2017,,,,,11,2019-03-22 17:39:39
+2126,595,bs,69,70,CONSOLIDATED STATEMENT OF FINANCIAL POSITION At 31 December 2017,,,,,11,2019-03-22 18:00:02
+2133,597,bs,85,86,CONSOLIDATED BALANCE SHEET (All amounts in HKD thousands unless otherwise stated),,,,,11,2019-03-22 18:24:02
+2134,597,is,87,87,CONSOLIDATED INCOME STATEMENT (All amounts in HKD thousands unless otherwise stated),,,,,11,2019-03-22 18:31:43
+2135,597,cis,88,88,CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME (All amounts in HKD thousands unless otherwise stated),,,,,11,2019-03-22 18:35:45
+2136,597,cfs,91,91,CONSOLIDATED STATEMENT OF CASH FLOWS (All amounts in HKD thousands unless otherwise stated),,,,,11,2019-03-22 18:44:47
+2137,597,cfs_note,160,160,35. NOTES TO THE CONSOLIDATED STATEMENT OF CASH FLOWS (a) Reconciliation of profit before income tax to consolidated cash generated from operations,,,,,11,2019-03-22 18:54:47
+2143,599,is,116,116,Consolidated Statement of Profit or Loss For the year ended 31 December 2017,,,,,23,2019-03-22 11:04:22
+2144,599,cis,117,117,CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME For the year ended 31 December 2017,,,,,23,2019-03-22 11:07:28
+2145,599,bs,118,119,CONSOLIDATED STATEMENT OF FINANCIAL POSITION As at 31 December 2017,,,,,23,2019-03-22 11:13:45
+2146,599,cfs,121,121,CONSOLIDATED STATEMENT OF CASH FLOWS For the year ended 31 December 2017,,,,,23,2019-03-22 11:30:27
+2147,599,cfs_note,185,185,40. Notes to the Consolidated Statement of Cash Flows (a) Reconciliation of profit before taxation to net cash outflow from operating activities:,,,,,23,2019-03-22 11:36:55
+2163,603,cis,157,157,CONSOLIDATED INCOME STATEMENT For the year ended 31 December 2017 Unit: RMB,,,,,23,2019-03-22 12:10:30
+2164,603,is,158,158,INCOME STATEMENT OF THE COMPANY For the year ended 31 December 2017 Unit: RMB,,,,,48,2019-04-18 18:12:54
+2165,603,cfs,159,159,CONSOLIDATED CASH FLOW STATEMENT For the year ended 31 December 2017 Unit: RMB,,,,,23,2019-03-22 12:28:30
+2171,605,is,172,172,CONSOLIDATED INCOME STATEMENT For the year ended 31 March 2018,,,,,23,2019-03-22 12:32:15
+2172,605,cis,173,173,CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME For the year ended 31 March 2018,,,,,23,2019-03-22 12:39:45
+2173,605,bs,174,175,CONSOLIDATED STATEMENT OF FINANCIAL POSITION As at 31 March 2018,,,,,23,2019-03-22 12:49:28
+2174,605,cfs,178,178,CONSOLIDATED STATEMENT OF CASH FLOWS For the year ended 31 March 2018,,,,,23,2019-03-22 13:03:41
+2175,605,cfs_note,229,229,26 Cash Flow Information (a) Cash Generated from Operations,,,,,23,2019-03-22 13:09:59
+2181,607,bs,80,81,CONSOLIDATED BALANCE SHEET As of 31 March 2018,,,,,4,2019-04-27 05:39:51
+2182,607,is,82,82,CONSOLIDATED INCOME STATEMENT For the year ended 31 March 2018,,,,,23,2019-03-22 14:07:21
+2183,607,cis,83,83,CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME For the year ended 31 March 2018,,,,,23,2019-03-22 14:14:19
+2184,607,cfs,86,87,CONSOLIDATED CASH FLOW STATEMENT For the year ended 31 March 2018,,,,,23,2019-03-22 14:24:01
+2185,607,cfs_note,137,138,27. CASH GENERATED FROM OPERATIONS,,,,,23,2019-03-22 14:32:17
+2190,609,bs,101,102,CONSOLIDATED STATEMENT OF FINANCIAL POSITION 31 December 2017,,,,,23,2019-03-22 14:58:02
+2191,609,cfs,106,107,CONSOLIDATED STATEMENT OF CASH FLOWS ended 31 December 2017,,,,,23,2019-03-22 15:24:20
+2197,611,is,81,81,Consolidated Income Statement For the year ended 31 December 2017,,,,,4,2019-04-27 05:47:39
+2198,611,cis,82,82,Consolidated Statement of Comprehensive Income For the year ended 31 December 2017,,,,,4,2019-04-27 05:50:46
+2199,611,bs,83,84,Consolidated Statement of Financial Position At 31 December 2017,,,,,11,2019-03-19 12:03:49
+2200,611,cfs,86,86,Consolidated Statement of Cash Flows For the year ended 31 December 2017,,,,,4,2019-04-27 05:51:29
+2201,611,cfs_note,133,133,Notes to the Consolidated Financial Statements 28 Cash Generated from Operations,,,,,11,2019-03-19 12:28:21
+2217,615,cis,78,78,"CONSOLIDATED STATEMENT OF COMPREHENSIVE LOSS Year ended March 31, 2018",,,,,11,2019-03-19 13:14:07
+2218,615,bs,79,80,"CONSOLIDATED STATEMENT OF FINANCIAL POSITION March 31, 2018",,,,,11,2019-03-19 13:24:16
+2219,615,cfs,83,85,"CONSOLIDATED STATEMENT OF CASH FLOWS Year ended March 31, 2018",,,,,11,2019-03-19 14:28:34
+2224,617,is,90,90,Consolidated Income Statement For the year ended 31 December 2017,,,,,11,2019-03-19 14:45:19
+2225,617,cis,91,91,Consolidated Statement of Comprehensive Income For the year ended 31 December 2017,,,,,23,2019-04-12 13:10:34
+2226,617,bs,92,93,Consolidated Balance Sheet As at 31 December 2017,,,,,11,2019-03-19 14:58:17
+2227,617,cfs,96,98,Consolidated Cash Flow Statement For the year ended 31 December 2017,,,,,4,2019-04-11 17:18:15
+2233,619,cis,131,131,CONSOLIDATED STATEMENT OF PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME FOR THE YEAR ENDED 31 DECEMBER 2017,,,,,23,2019-03-22 15:53:21
+2234,619,bs,132,133,CONSOLIDATED STATEMENT OF FINANCIAL POSITION AS OF 31 DECEMBER 2017,,,,,4,2019-04-27 05:54:37
+2235,619,cfs,136,137,CONSOLIDATED STATEMENT OF CASH FLOWS FOR THE YEAR ENDED 31 DECEMBER 2017,,,,,23,2019-03-22 16:57:22
+2240,621,is,58,58,Consolidated Statement of Profit or Loss Year ended 31 December 2017,,,,,41,2019-03-22 10:44:58
+2241,621,cis,59,59,Consolidated Statement of Comprehensive Income Year ended 31 December 2017,,,,,41,2019-03-22 10:47:26
+2242,621,bs,60,60,CONSOLIDATED STATEMENT OF FINANCIAL POSITION 31 December 2017,,,,,41,2019-03-22 14:44:23
+2243,621,cfs,62,63,Consolidated Statement of Cash Flows Year ended 31 December 2017,,,,,41,2019-03-22 14:45:32
+2251,623,cfs,52,52,Consolidated Statement of Cash Flows For the year ended 31 March 2018 As at 31 March 2018,,,,,41,2019-03-22 14:51:50
+2257,625,cis,72,72,Consolidated Statement of Comprehensive Income For the year ended 31 December 2017,,,,,41,2019-03-22 15:05:02
+2258,625,bs,73,74,CONSOLIDATED STATEMENT OF FINANCIAL POSITION As at 31 December 2017,,,,,41,2019-03-22 15:06:26
+2259,625,cfs,77,78,Consolidated Statement of Cash Flows For the year ended 31 December 2017,,,,,41,2019-03-22 15:08:18
+2264,627,is,60,60,CONSOLIDATED PROFIT AND LOSS ACCOUNT For the year ended 30 June 2018 (Expressed in Hong Kong dollars),,,,,41,2019-03-22 12:09:25
+2265,627,cis,61,61,CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME For the year ended 30 June 2018 (Expressed in Hong Kong dollars),,,,,4,2019-04-12 13:39:04
+2266,627,bs,62,63,CONSOLIDATED BALANCE SHEET At 30 June 2018 (Expressed in Hong Kong dollars),,,,,41,2019-03-22 15:52:16
+2267,627,cfs,64,65,CONSOLIDATED CASH FLOW STATEMENT For the year ended 30 June 2018 (Expressed in Hong Kong dollars),,,,,41,2019-03-22 16:12:10
+2301,635,bs,82,83,Consolidated Statement of Financial Position As at 31 March 2018,,,,,4,2019-04-27 06:00:35
+2302,635,is,84,84,Consolidated Income Statement – By Function of Expense For the year ended 31 March 2018,,,,,12,2019-03-22 22:07:21
+2303,635,cis,85,85,Consolidated Statement of Comprehensive Income For the year ended 31 March 2018,,,,,12,2019-03-22 22:11:53
+2304,635,cfs,88,89,Consolidated Statement of Cash Flows For the year ended 31 March 2018,,,,,12,2019-03-22 22:13:41
+2536,716,is,86,86,"Consolidated Income Statement For the year ended December 31, 2017",,,,,4,2019-04-27 06:12:26
+2537,716,cis,87,87,"Consolidated Statement of Comprehensive Income For the year ended December 31, 2017",,,,,4,2019-04-11 17:59:42
+2538,716,bs,88,89,"Consolidated Statement of Financial Position At December 31, 2017",,,,,26,2019-03-22 17:26:45
+2539,716,cfs,93,95,"Consolidated Statement of Cash Flows For the year ended December 31, 2017",,,,,26,2019-03-22 17:27:55
+13767,356,bs,98,100,"CONSOLIDATED AND COMPANY STATEMENTS OF FINANCIAL POSITION As at December 31, 2017 (Additional information)  In HK$ million",,,,,43,2019-05-16 02:53:37
+13797,367,cfs,126,126,CONSOLIDATED STATEMENT OF CASH FLOWS For the year ended 30 June 2017,,,,,11,2019-03-26 15:00:21
+13805,3518,cfs_note,196,196,42. Notes to the Consolidated Statement of Cash Flows (a) Reconciliation of operating profit to cash generated from operations,,,,,11,2019-03-26 17:06:44
+13808,3518,is,127,127,Consolidated Statement of Profit or Loss For the year ended 31st December 2017,,,,,11,2019-03-29 01:02:09
+13809,3518,bs,129,129,Consolidated Statement of Financial Position At 31st December 2017,,,,,11,2019-03-29 01:38:42
+13810,3518,cfs,130,130,Consolidated Statement of Cash Flows For the year ended 31st December 2017,,,,,11,2019-03-29 01:46:32
+13920,3542,cis,26,26,Consolidated Statement of Profit or Loss and Other Comprehensive Income For the year ended 31 December 2017,,,,,48,2019-06-17 08:40:16
+13921,3542,bs,27,27,CONSOLIDATED STATEMENT OF FINANCIAL POSITION For the year ended 31 December 2017,,,,,48,2019-06-17 08:42:15
+13922,3542,cfs,29,29,Consolidated Statement of Cash Flows For the year ended 31 December 2017,,,,,48,2019-06-17 08:44:16
+13927,3550,is,110,110,Consolidated Statement of Profit or Loss For the Year Ended 31 December  2017,,,,,11,2019-03-29 02:09:07
+13928,3550,cis,111,111,Consolidated Statement of Profit or Loss and Other Comprehensive Income For the Year Ended 31 December 2017,,,,,11,2019-03-29 02:14:12
+13929,3550,bs,112,113,Consolidated Statement of Financial Position As at 31 December  2017,,,,,11,2019-03-29 02:19:33
+13930,3550,cfs,116,117,Consolidated Statement of Cash Flows For the Year Ended 31 December  2017,,,,,11,2019-03-29 02:30:55
+14122,3596,cis,64,64,Consolidated Statement of Profit or Loss and Other Comprehensive Income ,,,,,36,2019-03-31 06:22:10
+14123,3596,bs,65,65,CONSOLIDATED STATEMENT OF FINANCIAL POSITION ,,,,,36,2019-03-31 06:25:33
+14124,3596,cfs,66,66,Consolidated Statement of Cash Flows ,,,,,36,2019-03-31 06:27:32
+14125,3596,cfs_note,89,89,Cash Generated from Operations ,,,,,36,2019-03-31 06:29:42
+14693,3738,is,66,66,Consolidated Statement of Profit or Loss Year ended 31 December 2017,,,,,4,2019-04-16 14:51:35
+14695,3738,bs,68,69,Consolidated Statement of Financial Position 31 December 2017,,,,,43,2019-05-16 05:58:21
+14696,3738,cfs,72,73,Consolidated Statement of Cash Flows Year ended 31 December 2017,,,,,4,2019-05-29 09:12:40
+14704,834,cis,163,163,"Consolidated Statement of Comprehensive Income (Amounts in millions of Renminbi, unless otherwise stated)",,,,,41,2019-03-22 13:59:47
+14706,834,cfs,167,168,"Consolidated Statement of Cash Flows For the year ended 31 December 2017 (Amounts in millions of Renminbi, unless otherwise stated) ",,,,,41,2019-03-22 14:09:17
+14906,3794,is,109,109,Consolidated Income Statement For the year ended 31 December 2017,,,,,48,2019-04-18 16:54:45
+14907,3794,cis,110,110,Consolidated Statement of Comprehensive Income For the year ended 31 December 2017,,,,,48,2019-04-18 16:58:59
+14908,3794,bs,111,112,Consolidated Statement of Financial Position As at 31 December 2017,,,,,48,2019-04-18 17:04:36
+14909,3794,cfs,115,117,Consolidated Statement of Cash Flows For the year ended 31 December 2017,,,,,48,2019-04-18 17:29:28
+15101,3839,is,38,38,Consolidated Statement of Profit or Loss – Unaudited,,,,,60,2019-05-19 09:30:22
+15102,3839,cis,39,39,Consolidated Statement of Profit or Loss and Other Comprehensive Income – Unaudited,,,,,60,2019-05-19 09:31:42
+15103,3839,bs,40,41,Consolidated Statement of Financial Position – Unaudited,,,,,60,2019-05-19 09:37:15
+15104,3839,cfs,43,43,Consolidated Statement of Cash Flows – Unaudited,,,,,60,2019-05-19 09:39:45
+15109,3841,is,11,11,CONSOLIDATED INCOME STATEMENT (UNAUDITED) For the six months ended 30th June,,,,,26,2019-05-16 04:17:31
+15110,3841,cis,12,12,CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME (UNAUDITED) For the six months ended 30th June,,,,,26,2019-05-16 06:12:21
+15111,3841,bs,13,14,CONSOLIDATED STATEMENT OF FINANCIAL POSITION (UNAUDITED) As at 30th June 2018,,,,,26,2019-05-16 06:17:28
+15112,3841,cfs,15,15,CONDENSED CONSOLIDATED CASH FLOW STATEMENT (UNAUDITED) For the six months ended 30th June,,,,,26,2019-05-16 06:20:41
+15117,3843,is,78,78,Consolidated income statement,,,,,26,2019-05-16 06:43:04
+15118,3843,cis,79,79,Consolidated Statement of Comprehensive Income,,,,,26,2019-05-16 06:45:35
+15120,3843,cfs,81,81,Consolidated Statement of Cash Flows,,,,,26,2019-05-16 07:49:30
+15126,3845,is,12,12,UNAUDITED CONSOLIDATED STATEMENT OF PROFIT OR LOSS For the six months ended 30 June 2018 (Expressed in Hong Kong dollars),,,,,26,2019-05-16 08:07:57
+15127,3845,cis,13,13,UNAUDITED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME For the six months ended 30 June 2018 (Expressed in Hong Kong dollars),,,,,26,2019-05-16 08:21:25
+15128,3845,bs,14,14,UNAUDITED CONSOLIDATED STATEMENT OF FINANCIAL POSITION At 30 June 2018 (Expressed in Hong Kong dollars),,,,,26,2019-05-16 08:52:39
+15129,3845,cfs,16,16,UNAUDITED CONSOLIDATED CASH FLOW STATEMENT For the six months ended 30 June 2018 (Expressed in Hong Kong dollars),,,,,26,2019-05-16 08:34:40
+15136,3847,cis,34,34,CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME ,,,,,51,2019-05-23 09:51:49
+15137,3847,bs,35,35,Consolidated Balance Sheet ,,,,,51,2019-05-23 09:53:21
+15138,3847,cfs,38,39,Condensed Consolidated Cash Flow Statement ,,,,,51,2019-05-23 09:55:00
+15144,3849,cis,36,36,Consolidated Statement of Profit or Loss and Other Comprehensive Income - unaudited,,,,,60,2019-05-19 09:42:51
+15146,3849,cfs,41,41,Condensed Consolidated Cash Flow Statement - unaudited,,,,,67,2019-07-02 09:13:18
+15151,3851,is,17,17,Consolidated Income Statement For the six months ended 31 December 2018 (Expressed in millions of Hong Kong dollars),,,,,51,2019-05-23 10:07:26
+15152,3851,cis,18,18,Consolidated Statement of Comprehensive Income For the six months ended 31 December 2018 (Expressed in millions of Hong Kong dollars),,,,,51,2019-05-23 10:08:57
+15153,3851,bs,19,19,CONSOLIDATED STATEMENT OF FINANCIAL POSITION As at 31 December 2018 (Expressed in millions of Hong Kong dollars),,,,,51,2019-05-23 10:10:42
+15154,3851,cfs,20,20,CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS For the six months ended 31 December 2018 (Expressed in millions of Hong Kong dollars),,,,,51,2019-05-23 10:12:42
+15159,3853,is,20,20,Condensed Consolidated Income Statement – Unaudited For the six months ended 31 December 2018,,,,,51,2019-05-23 10:22:59
+15160,3853,cis,21,21,CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME For the six months ended 31 December 2018,,,,,51,2019-05-23 10:24:06
+15161,3853,bs,22,23,CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION As at 31 December 2018,,,,,51,2019-05-23 10:25:10
+15162,3853,cfs,26,26,Condensed Consolidated Statement of Cash Flows – Unaudited For the six months ended 31 December 2018,,,,,51,2019-05-23 10:26:06
+15167,3855,is,44,44,Consolidated Statement of Profit or Loss for the six months ended 30th June 2018,,,,,26,2019-05-17 05:09:45
+15168,3855,cis,45,45,Consolidated Statement of Other Comprehensive Income for the six months ended 30th June 2018,,,,,26,2019-05-17 07:25:10
+15169,3855,bs,46,46,CONSOLIDATED STATEMENT OF FINANCIAL POSITION at 30th June 2018,,,,,26,2019-05-17 07:29:19
+15170,3855,cfs,47,47,Consolidated Statement of Cash Flows for the six months ended 30th June 2018,,,,,26,2019-05-17 07:32:32
+15175,3857,is,36,36,CONDENSED CONSOLIDATED INCOME STATEMENT (UNAUDITED) For the six months ended 30 June 2018,,,,,26,2019-05-17 07:46:44
+15176,3857,cis,37,37,CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME (UNAUDITED) For the six months ended 30 June 2018,,,,,26,2019-05-17 07:59:17
+15177,3857,bs,38,39,CONDENSED CONSOLIDATED BALANCE SHEET (UNAUDITED) As at 30 June 2018,,,,,26,2019-05-17 08:00:28
+15178,3857,cfs,40,40,CONDENSED CONSOLIDATED CASH FLOW STATEMENT (UNAUDITED) For the six months ended 30 June 2018,,,,,26,2019-05-17 09:11:50
+15184,3859,is,48,48,CONSOLIDATED PROFIT AND LOSS ACCOUNT,,,,,43,2019-05-17 07:11:40
+15185,3859,cis,49,49,CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME,,,,,43,2019-05-17 07:12:49
+15186,3859,bs,50,50,CONSOLIDATED STATEMENT OF FINANCIAL POSITION,,,,,43,2019-05-17 07:13:56
+15187,3859,cfs,52,52,CONSOLIDATED CASH FLOW STATEMENT,,,,,43,2019-05-17 07:16:13
+15188,3859,cfs_note,72,72,25 Cash Generated from Operations,,,,,43,2019-05-17 07:19:38
+15193,3861,is,13,13,"CONDENSED CONSOLIDATED STATEMENT OF PROFIT OR LOSS For the six months ended 31st December, 2018",,,,,43,2019-05-17 07:34:27
+15194,3861,cis,14,14,"Condensed Consolidated Statement of Profit or Loss and Other Comprehensive Income For the six months ended 31st December, 2018",,,,,43,2019-05-17 07:35:53
+15195,3861,bs,15,16,"CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION At 31st December, 2018",,,,,43,2019-05-17 07:38:04
+15196,3861,cfs,18,19,"CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS For the six months ended 31st December, 2018",,,,,43,2019-05-17 07:39:31
+15201,3863,is,52,52,"Consolidated Statement of Profit or Loss For the six months ended June 30, 2018 (Unaudited)",,,,,67,2019-07-02 09:17:03
+15204,3863,cfs,58,58,"Condensed Consolidated Cash Flow Statement For the six months ended June 30, 2018 (Unaudited)",,,,,43,2019-05-17 09:41:34
+15209,3865,bs,28,29,Interim Condensed Consolidated Balance Sheet As at 30 September 2018,,,,,62,2019-05-20 08:37:20
+15210,3865,is,30,30,Interim Condensed Consolidated Statement of Income For the six months ended 30 September 2018,,,,,62,2019-05-20 08:38:51
+15211,3865,cis,31,31,Interim Condensed Consolidated Statement of Comprehensive Income For the six months ended 30 September 2018,,,,,62,2019-05-20 08:40:03
+15212,3865,cfs,34,35,Interim Condensed Consolidated Statement of Cash Flows For the six months ended 30 September 2018,,,,,62,2019-05-20 08:42:09
+15218,3867,cis,7,7,CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME For the six months ended 30 June 2018,,,,,67,2019-07-02 09:18:33
+15219,3867,bs,8,9,CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION As at 30 June 2018,,,,,62,2019-05-20 08:58:53
+15220,3867,cfs,11,11,CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS For the six months ended 30 June 2018,,,,,62,2019-05-20 09:03:24
+15261,3879,is,26,26,Consolidated Income Statement For the three and six months ended 30 June 2018,,,,,26,2019-05-21 01:38:38
+15262,3879,cis,27,27,Consolidated Statement of Comprehensive Income For the three and six months ended 30 June 2018,,,,,26,2019-05-21 01:40:53
+15263,3879,bs,28,30,Consolidated Statement of Financial Position As at 30 June 2018,,,,,26,2019-05-21 01:43:07
+15264,3879,cfs,33,34,Consolidated Statement of Cash Flows For the six months ended 30 June 2018,,,,,26,2019-05-21 01:49:16
+15269,3881,is,12,12,"Unaudited Condensed Consolidated Interim Statement of Income FOR THE SIX MONTHS ENDED 30 JUNE 2018 (All amounts in Renminbi (“RMB”) millions, except per share data)",,,,,32,2019-05-24 04:35:36
+15270,3881,cis,13,13,Unaudited Condensed Consolidated Interim Statement of Comprehensive Income FOR THE SIX MONTHS ENDED 30 JUNE 2018 (All amounts in RMB millions),,,,,32,2019-05-24 04:36:37
+15271,3881,bs,14,15,Unaudited Condensed Consolidated Interim Statement of Financial Position AS AT 30 JUNE 2018 (All amounts in RMB millions),,,,,26,2019-05-21 02:00:09
+15272,3881,cfs,17,17,Unaudited Condensed Consolidated Interim Statement of Cash Flows FOR THE SIX MONTHS ENDED 30 JUNE 2018 (All amounts in RMB millions),,,,,32,2019-05-24 04:37:14
+15324,3897,cis,88,88,Condensed Consolidated Statement of Profit or Loss and Other Comprehensive Income For the six months ended 30 June 2018,,,,,48,2019-05-20 02:33:18
+15325,3897,bs,89,90,CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION At 30 June 2018,,,,,48,2019-05-20 02:36:08
+15326,3897,cfs,94,95,CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS For the six months ended 30 June 2018,,,,,48,2019-05-20 02:38:48
+15331,3899,is,19,19,CONDENSED CONSOLIDATED STATEMENT OF PROFIT OR LOSS For the six months ended 30 June 2018,,,,,48,2019-05-20 02:52:01
+15332,3899,cis,20,20,Condensed Consolidated Statement of Profit or Loss and Other Comprehensive Income For the six months ended 30 June 2018,,,,,48,2019-05-20 02:54:49
+15339,3901,is,33,33,CONDENSED CONSOLIDATED STATEMENT OF PROFIT OR LOSS For the six months ended 30 June 2018,,,,,48,2019-05-20 03:28:56
+15340,3901,cis,34,34,CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME For the six months ended 30 June 2018,,,,,48,2019-05-20 03:30:59
+15341,3901,bs,35,37,CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION As at 30 June 2018,,,,,48,2019-05-20 03:34:35
+15342,3901,cfs,41,42,CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS For the six months ended 30 June 2018,,,,,69,2019-07-02 06:27:06
+15347,3903,is,48,48,Consolidated Income Statement For the six months ended 30 June 2018,,,,,60,2019-05-22 02:13:59
+15348,3903,cis,49,49,Consolidated Statement of Comprehensive Income For the six months ended 30 June 2018,,,,,60,2019-05-22 02:17:29
+15349,3903,bs,50,50,Consolidated Statement of Financial Position As at 30 June 2018,,,,,60,2019-05-22 02:50:07
+15350,3903,cfs,53,53,Condensed Consolidated Statement of Cash Flows For the six months ended 30 June 2018,,,,,60,2019-05-22 02:52:28
+15355,3905,is,20,20,CONSOLIDATED STATEMENT OF PROFIT OR LOSS,,,,,60,2019-05-22 03:05:20
+15356,3905,cis,21,21,CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME,,,,,60,2019-05-22 03:07:23
+15357,3905,bs,22,23,CONSOLIDATED STATEMENT OF FINANCIAL POSITION ,,,,,60,2019-05-22 03:10:58
+15358,3905,cfs,25,25,CONDENSED CONSOLIDATED CASH FLOW STATEMENT,,,,,60,2019-05-22 03:12:53
+15363,3907,is,49,49,Interim Consolidated Income Statement,,,,,41,2019-05-20 02:29:50
+15364,3907,cis,50,50,Interim Consolidated Statement of Comprehensive Income,,,,,41,2019-05-20 02:30:58
+15365,3907,bs,51,52,CONSOLIDATED STATEMENT OF FINANCIAL POSITION ,,,,,41,2019-05-20 02:32:22
+15366,3907,cfs,55,55,Interim Condensed Consolidated Statement of Cash Flow,,,,,67,2019-07-02 09:04:42
+15371,3909,is,85,85,"Unaudited Interim Consolidated Statement of Profit or Loss For the six months ended 30 June 2018 (In RMB millions, unless otherwise stated)",,,,,41,2019-05-20 02:39:11
+15372,3909,cis,86,86,"Unaudited Interim Consolidated Statement of Profit or Loss and Other Comprehensive Income For the six months ended 30 June 2018 (In RMB millions, unless otherwise stated)",,,,,41,2019-05-20 02:39:42
+15373,3909,bs,87,88,"Unaudited Interim Consolidated Statement of Financial Position As at 30 June 2018 (In RMB millions, unless otherwise stated)",,,,,41,2019-05-20 02:40:28
+15374,3909,cfs,92,93,"Unaudited Interim Consolidated Cash Flow Statement For the six months ended 30 June 2018 (In RMB millions, unless otherwise stated)",,,,,41,2019-05-20 02:41:24
+15379,3911,is,32,32,CONSOLIDATED INCOME STATEMENT,,,,,63,2019-05-20 04:38:58
+15380,3911,cis,33,33,CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME,,,,,63,2019-05-20 04:40:44
+15381,3911,bs,34,35,CONSOLIDATED BALANCE SHEET,,,,,63,2019-05-20 04:42:54
+15382,3911,cfs,37,37,Consolidated Statement of Cash Flows ,,,,,63,2019-05-20 04:45:49
+15387,3913,is,16,16,Consolidated Statement of Profit or Loss For	the	six	months	ended	30	June	2018	—	Unaudited,,,,,63,2019-05-20 05:00:47
+15388,3913,cis,17,17,Consolidated Statement of Comprehensive Income For	the	six	months	ended	30	June	2018	—	Unaudited,,,,,63,2019-05-20 05:02:44
+15389,3913,bs,18,19,CONSOLIDATED STATEMENT OF FINANCIAL POSITION As at 30 June 2018 — Unaudited,,,,,63,2019-05-20 05:04:26
+15390,3913,cfs,21,21,CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS For	the	six	months	ended	30	June	2018	—	Unaudited,,,,,63,2019-05-20 05:05:41
+15395,3915,bs,46,47,Interim Condensed Consolidated Statement of Financial Position ,,,,,41,2019-05-21 03:01:06
+15396,3915,is,48,48,INTERIM CONDENSED CONSOLIDATED INCOME STATEMENT,,,,,41,2019-05-21 03:04:07
+15397,3915,cis,49,49,INTERIM CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME,,,,,41,2019-05-21 03:04:51
+15398,3915,cfs,52,53,INTERIM CONDENSED CONSOLIDATED CASH FLOW STATEMENT,,,,,41,2019-05-21 03:06:01
+15402,3917,cis,25,25,Condensed Consolidated Statement of Profit or Loss and Other Comprehensive Income FOR THE SIX MONTHS ENDED 30 JUNE 2018,,,,,41,2019-05-21 03:09:49
+15403,3917,bs,26,26,CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION AT 30 JUNE 2018,,,,,41,2019-05-21 03:10:22
+15404,3917,cfs,28,28,CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS FOR THE SIX MONTHS ENDED 30 JUNE 2018,,,,,41,2019-05-21 03:11:06
+15409,3919,is,22,22,INTERIM CONSOLIDATED STATEMENT OF PROFIT OR LOSS For the six months ended 30 June 2018,,,,,60,2019-05-22 03:31:17
+15410,3919,cis,23,23,INTERIM CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME For the six months ended 30 June 2018,,,,,60,2019-05-22 03:32:47
+15411,3919,bs,24,25,INTERIM CONSOLIDATED STATEMENT OF FINANCIAL POSITION As at 30 June 2018,,,,,60,2019-05-22 03:36:47
+15412,3919,cfs,27,29,INTERIM CONSOLIDATED STATEMENT OF CASH FLOWS For the six months ended 30 June 2018,,,,,60,2019-05-22 03:40:48
+15417,3921,is,97,97,Interim Consolidated Income Statement For the six-month period ended 30 June 2018,,,,,60,2019-05-22 03:56:00
+15418,3921,cis,98,98,interim Consolidated Statement of Comprehensive Income For the six-month period ended 30 June 2018,,,,,60,2019-05-22 03:57:24
+15420,3921,cfs,102,102,Interim Consolidated Statement of Cash Flows For the six-month period ended 30 June 2018,,,,,60,2019-05-22 04:02:36
+15425,3923,is,64,64,INTERIM CONDENSED CONSOLIDATED STATEMENT OF PROFIT OR LOSS,,,,,69,2019-07-02 06:35:59
+15475,3936,is,18,18,CONSOLIDATED INCOME STATEMENT For The Six Months Ended 30 June 2018 — Unaudited,,,,,26,2019-05-22 04:41:56
+15476,3936,cis,19,19,CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME For The Six Months Ended 30 June 2018 — Unaudited,,,,,26,2019-05-22 04:43:06
+15477,3936,bs,20,21,CONSOLIDATED STATEMENT OF FINANCIAL POSITION As At 30 June 2018 — Unaudited,,,,,26,2019-05-22 04:44:46
+15478,3936,cfs,23,23,CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS For The Six Months Ended 30 June 2018 — Unaudited,,,,,26,2019-05-22 04:48:22
+15483,3938,is,21,21,Consolidated Income Statement For the six months ended 30 June 2018 — Unaudited,,,,,62,2019-05-21 02:06:21
+15484,3938,cis,22,22,Consolidated Statement of Comprehensive Income For the six months ended 30 June 2018 — Unaudited,,,,,62,2019-05-21 02:34:44
+15485,3938,bs,23,23,CONSOLIDATED STATEMENT OF FINANCIAL POSITION As at 30 June 2018 — Unaudited,,,,,62,2019-05-21 02:36:18
+15486,3938,cfs,25,25,CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS For the six months ended 30 June 2018 — Unaudited,,,,,62,2019-05-21 02:39:22
+15513,3946,is,25,25,CONDENSED CONSOLIDATED STATEMENT OF PROFIT OR LOSS For the Six Months Ended 30 June 2018,,,,,62,2019-06-11 02:47:26
+15514,3946,cis,26,26,Condensed Consolidated Statement of Profit or Loss and Other Comprehensive Income For the Six Months Ended 30 June 2018,,,,,62,2019-06-11 02:49:01
+15515,3946,bs,27,28,CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION As at 30 June 2018,,,,,62,2019-06-11 02:51:05
+15516,3946,cfs,31,31,CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS For the Six Months Ended 30 June 2018,,,,,62,2019-06-11 02:55:32
+15521,3948,is,57,57,Consolidated Income Statement  For the six months ended 30 June 2018,,,,,67,2019-07-02 09:19:45
+15523,3948,bs,59,61,CONSOLIDATED STATEMENT OF FINANCIAL POSITION 30 June 2018 ,,,,,67,2019-07-02 09:21:38
+15529,3950,is,5,5,Condensed Consolidated Statement of Profit or Loss For the six months ended 30 June 2018,,,,,32,2019-06-11 05:30:08
+15530,3950,cis,6,6,CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME For the six months ended 30 June 2018 for the six months ended  30 June,,,,,32,2019-06-11 05:50:09
+15531,3950,bs,7,8,CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION 30 June 2018,,,,,32,2019-06-11 05:37:27
+15532,3950,cfs,11,11,CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS For the six months ended 30 June 2018,,,,,32,2019-06-11 05:39:11
+15538,3952,cis,16,16,CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME (截至二零一八年六月三十日止六個月 For the six months ended 30 June 2018),,,,,34,2019-06-11 03:01:33
+15539,3952,bs,17,18,簡明綜合資產負債表 (於二零一八年六月三十日),,,,,34,2019-06-13 07:51:17
+15540,3952,cfs,19,19,Condensed Consolidated Cash Flow Statement ,,,,,34,2019-06-11 03:15:47
+15545,3954,cis,22,22,Consolidated Statement of Profit or Loss and Other Comprehensive Income (for the six months ended 30th June 2018 – Unaudited),,,,,34,2019-06-11 04:09:52
+15546,3954,bs,23,23,CONSOLIDATED STATEMENT OF FINANCIAL POSITION,,,,,34,2019-06-11 04:35:16
+15547,3954,cfs,24,24,Consolidated Statement of Cash Flows (for the six months ended 30th June 2018 – Unaudited),,,,,34,2019-06-11 04:39:32
+15551,3956,is,3,3,Consolidated Income Statement For the Three Months and Six Months Ended 30 June 2018,,,,,34,2019-06-11 05:16:31
+15552,3956,cis,4,4,CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME For the Three Months and Six Months Ended 30 June 2018,,,,,34,2019-06-11 05:18:37
+15553,3956,bs,5,6,CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION At 30 June 2018,,,,,34,2019-06-11 05:20:27
+15554,3956,cfs,9,9,CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS For the Six Months Ended 30 June 2018,,,,,34,2019-06-11 05:25:36
+15567,3960,cis,5,6,Condensed Consolidated Statement of Profit or Loss and Other Comprehensive Income,,,,,62,2019-05-21 06:23:10
+15568,3960,bs,7,8,CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION At 30 September 2017,,,,,62,2019-05-21 06:34:53
+15569,3960,cfs,10,10,CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS  For the six months ended 30 September 2017 ,,,,,62,2019-05-21 06:38:32
+15573,3962,is,18,18,CONDENSED CONSOLIDATED STATEMENT OF PROFIT OR LOSS For the six months ended 30 June 2018,,,,,41,2019-05-22 02:43:15
+15574,3962,cis,19,20,CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME For the six months ended 30 June 2018,,,,,41,2019-05-22 02:46:21
+15575,3962,bs,21,22,CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION 30 June 2018,,,,,41,2019-05-22 02:47:42
+15576,3962,cfs,25,26,CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS Six months ended 30 June 2018,,,,,41,2019-05-22 02:48:27
+15589,3966,is,6,6,"Consolidated Income Statement For the six months ended June 30, 2018",,,,,41,2019-05-22 03:06:40
+15590,3966,cis,7,7,"CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME For the six months ended June 30, 2018",,,,,41,2019-05-22 03:08:46
+15591,3966,bs,8,9,"CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION At June 30, 2018",,,,,41,2019-05-22 03:10:13
+15592,3966,cfs,12,12,"CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS For the six months ended June 30, 2018",,,,,41,2019-05-22 03:13:02
+15597,3968,cis,3,5,INTERIM CONDENSED CONSOLIDATED STATEMENT OF PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME For the six months ended 30 June 2018,,,,,60,2019-05-22 04:11:03
+15598,3968,bs,6,9,INTERIM CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION As at 30 June 2018,,,,,60,2019-05-22 04:17:00
+15599,3968,cfs,13,15,CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS For the six months ended 30 June 2018,,,,,67,2019-07-02 09:10:01
+15603,3970,is,35,35,INTERIM CONDENSED CONSOLIDATED STATEMENT OF PROFIT OR LOSS For the six months ended 30 June 2018,,,,,60,2019-05-22 04:36:56
+15604,3970,cis,36,37,INTERIM CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME For the six months ended 30 June 2018,,,,,60,2019-05-22 04:49:06
+15605,3970,bs,38,41,INTERIM CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION As at 30 June 2018,,,,,60,2019-05-22 05:00:40
+15606,3970,cfs,44,45,INTERIM CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS For the six months ended 30 June 2018,,,,,60,2019-05-22 05:10:26
+15695,3996,is,5,5,CONDENSED CONSOLIDATED STATEMENT OF PROFIT OR LOSS For the six months ended 30 June 2018,,,,,43,2019-06-17 08:51:10
+15696,3996,cis,6,6,CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME For the six months ended 30 June 2018,,,,,43,2019-06-17 08:52:14
+15697,3996,bs,7,8,CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION 30 June 2018,,,,,43,2019-06-17 08:53:45
+15698,3996,cfs,11,13,CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS For the six months ended 30 June 2018,,,,,43,2019-06-17 08:55:16
+15703,3998,cis,34,34,"Condensed Consolidated Statement of Profit or Loss and Other Comprehensive Income For the six months ended 30th June, 2018",,,,,43,2019-06-17 08:41:49
+15704,3998,bs,35,36," Condensed Consolidated Statement of Financial Position At 30th June, 2018",,,,,43,2019-06-17 08:44:25
+15705,3998,cfs,39,40," Condensed Consolidated Statement of Cash Flows For the six months ended 30th June, 2018",,,,,43,2019-06-17 08:45:46
