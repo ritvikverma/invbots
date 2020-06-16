@@ -1,0 +1,1 @@
+#### Pandas scripts written to retrieve metric relations between accounting tables for the firm's flagship product - _ModelBots Intelligence_
